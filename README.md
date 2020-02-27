@@ -1,11 +1,8 @@
 # 1. markdown
-github 문서 작성을 위한 markdown 문법 사용 방법입니다.
-
-아울러 제가 업무 정리 시 사용하는 **typora** 도 이와 같은 문법으로 적용되니 알아두면 좋을 것 같아 공유합니다.
-
-typora 설치 링크 : https://typora.io/
-
-출처 : https://gist.github.com/ihoneymon/652be052a0727ad59601
+- github 문서 작성을 위한 markdown 문법 사용 방법입니다.
+- 아울러 제가 업무 정리 시 사용하는 **typora** 도 이와 같은 문법으로 적용되니 알아두면 좋을 것 같아 공유합니다.
+- typora 설치 링크 : https://typora.io/
+- 출처 : https://gist.github.com/ihoneymon/652be052a0727ad59601
 
 마크다운 markdown 작성법
 ======================
